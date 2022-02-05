@@ -1,7 +1,7 @@
-# number-verifier
- Number verifier webpage developed during one class in the JavaScript "Sintaxe e Operadores" (Syntax and Operations) course tutored by [stebsnusch](https://github.com/stebsnusch) at DIO (Digital Innovation One) 
+# Number verifier
+ Number verifier webpage developed during one class in the JavaScript "Sintaxe e Operadores" (Syntax and Operations) course tutored by [stebsnusch](https://github.com/stebsnusch) at [DIO (Digital Innovation One)](https://www.dio.me).
 
- To are two versions of this exercise. The [first one](https://github.com/o-Patrick/number-verifier/tree/main/v1) was done by me before seeing the resolution. The second was after sue to training reasons, specially since there is a big difference between both.
+ To are two versions of this exercise. The [first one](https://github.com/o-Patrick/number-verifier/tree/main/v1) was done by me before seeing the resolution. [The second](https://github.com/o-Patrick/number-verifier/tree/main/v2) was after sue to training reasons, specially since there is a big difference between both.
 
  The almost-original README had the following regarding v1:
 
